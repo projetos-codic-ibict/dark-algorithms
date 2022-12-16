@@ -4,7 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7442743.svg)](https://doi.org/10.5281/zenodo.7442743)
 
 
-![image alt ><](images/dARK_logo.jpg)
+![image alt ><](images/dARK_logo.png)
 
 
 This repository contains a Solidity implementation of the Nice Opaque Identifiers (NOId), including the Noid Check Digit Algorithm (NCDA). This implementation enables the Archival Resource Key (ARK) minting process in decentralized environments, like Blockchain technology.
